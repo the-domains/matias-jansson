@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Matias Jansson ]]></title>
+        <description><![CDATA[Matias Jansson ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 16:29:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Example of UI]]></title>
+            <description><![CDATA[<article><h1>Example of UI</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d352ab6b6c102602a60bfbdf7e650e01e9bc1a24.png"></article>]]></description>
+            <link>undefinedexample-of-ui/index.html</link>
+            <guid isPermaLink="false">f96dfdd3-8cd5-4a21-8826-6dc0612b3ef7</guid>
+            <pubDate>Thu, 18 Feb 2016 16:29:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
